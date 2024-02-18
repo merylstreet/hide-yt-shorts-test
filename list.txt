@@ -1,0 +1,14 @@
+! Title: Hide YouTube Shorts Test
+! Description: Hide all traces of YouTube shorts videos on YouTube
+! Version: 0.1
+! Homepage: https://github.com/pascal1888/hide-yt-shorts-test
+
+! Test to block actual pages
+www.youtube.com/shorts^
+
+
+!!! MOBILE !!!
+
+! Test to block actual pages
+m.youtube.com/shorts^
+
