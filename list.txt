@@ -5,10 +5,8 @@
 
 ! Test to block actual pages
 www.youtube.com/shorts^
-
-
-!!! MOBILE !!!
-
-! Test to block actual pages
 m.youtube.com/shorts^
-
+youtube.com/shorts^
+||www.youtube.com/shorts^
+||m.youtube.com/shorts^
+||youtube.com/shorts^
